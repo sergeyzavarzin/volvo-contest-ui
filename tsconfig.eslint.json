@@ -1,0 +1,20 @@
+{
+  "extends": "./tsconfig.json",
+  "exclude": [
+    "node_modules"
+  ],
+  "include": [
+    // repeated from base config's "include" setting
+    "*.tsx",
+    "*.d.ts",
+    "src",
+    "tests",
+    // these are the eslint-only inclusions
+    ".eslintrc.js",
+    "babel.config.js"
+  ],
+  "types": [
+    "jest",
+    "styled-components-react-native"
+  ]
+}
