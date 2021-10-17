@@ -6,6 +6,7 @@
   "include": [
     // repeated from base config's "include" setting
     "*.tsx",
+    "*.js",
     "*.d.ts",
     "src",
     "tests",

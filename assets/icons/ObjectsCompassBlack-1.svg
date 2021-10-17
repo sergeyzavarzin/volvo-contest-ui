@@ -1,0 +1,9 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" >
+<path d="M50 98C76.5097 98 98 76.5097 98 50C98 23.4903 76.5097 2 50 2C23.4903 2 2 23.4903 2 50C2 76.5097 23.4903 98 50 98Z" stroke="black" stroke-width="4" stroke-linecap="round"/>
+<path d="M72.1238 27.8794L42.6143 42.6133L57.3899 57.389L72.1238 27.8794Z" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M27.8789 72.1214L57.3885 57.3875L42.6128 42.6118L27.8789 72.1214Z" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M89.6523 50H98.0002" stroke="black" stroke-width="4" stroke-linecap="round"/>
+<path d="M50 10.3478V2" stroke="black" stroke-width="4" stroke-linecap="round"/>
+<path d="M10.3478 50H2" stroke="black" stroke-width="4" stroke-linecap="round"/>
+<path d="M50 89.6519V97.9997" stroke="black" stroke-width="4" stroke-linecap="round"/>
+</svg>

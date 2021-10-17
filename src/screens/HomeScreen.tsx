@@ -13,6 +13,7 @@ export const HomeScreen: FunctionComponent<HomeScreenProps> = ({ navigation }) =
     <StyledSafeAreaView>
       <Text>Home Screen</Text>
       <Button title="Go to Details 2" onPress={() => navigation.navigate('Details')} />
+      <Button title="Go to icons" onPress={() => navigation.navigate('Icons')} />
     </StyledSafeAreaView>
   );
 };
